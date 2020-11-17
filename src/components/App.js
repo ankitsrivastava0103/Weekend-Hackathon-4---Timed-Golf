@@ -5,21 +5,12 @@ class Timer extends React.Component {
     super(props);
     this.state = { time: 0, x: 0, y: 0 };
   }
-  componentDidMount() {
-    
-  }
+  componentDidMount() {}
 
-  componentWillUnmount() {
-    
-  }
-
-
+  componentWillUnmount() {}
 
   render() {
-    return (
- <>
-</>
-    );
+    return <></>;
   }
 }
 
